@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162004634624",
+    "project_id": "contador-flutterio",
+    "storage_bucket": "contador-flutterio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162004634624:android:3e95bd6fd0f042d8241ce5",
+        "android_client_info": {
+          "package_name": "com.spacedsoft.contador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162004634624-lmm9p2bfk9j4u0riigsrc7drqk891i4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYXvIpQCIidveRH5yqdH3khbwQJfxDvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162004634624-lmm9p2bfk9j4u0riigsrc7drqk891i4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
