@@ -1,6 +1,6 @@
 ## Contador
 
-A simple todo list app using Flutter with Slidable, Shared Preferences, intl and hosted on Firebase to quick view. 
+A simple "contador" application, created using Flutter and hosted on Firebase to quick view.
 
 ### Author
 
